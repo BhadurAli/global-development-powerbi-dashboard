@@ -1,0 +1,6 @@
+Country,R²_Score,MAE_Billions,RMSE_Billions
+Pakistan,0.8233,22.16,50.16
+India,0.8994,205.07,328.72
+China,0.8029,1450.78,2474.83
+United States,0.9034,765.18,2372.02
+Bangladesh,0.9003,33.13,39.28
